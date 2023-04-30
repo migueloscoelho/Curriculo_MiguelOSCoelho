@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+.CentralizaTexto{
+  text-align: center;
+}
+
+.BotaoZAP {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #54ce60;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  box-shadow: 2px 2px 3px #999;
+  padding: 15px;
+  padding-bottom: 15px;
+  padding-right: 10px;
+}
