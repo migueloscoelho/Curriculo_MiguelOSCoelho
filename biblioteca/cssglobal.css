@@ -21,3 +21,12 @@ body {
   padding-bottom: 15px;
   padding-right: 10px;
 }
+
+summary:before {
+   font-size: 20px;
+   font-weight: bold;
+   margin: 0 5px;
+   padding: 0;
+   width: 20px;
+   text-align: center;
+}
